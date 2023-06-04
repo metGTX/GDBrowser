@@ -1,11 +1,11 @@
 [
   {
     "name": "Geometry Dash",
-    "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
+    "link": "https://mhpgdpscool.ps.fhgdps.com/tools/",
     "author": "RobTop",
     "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
-    "id": "",
-    "endpoint": "http://www.boomlings.com/database/",
+    "id": "mhpgdps",
+    "endpoint": "https://mhpgdpscool.ps.fhgdps.com/database/",
     "timestampSuffix": " ago",
     "demonList": "https://pointercrate.com/",
     "downloadsDisabled": true,
